@@ -1,5 +1,11 @@
-# Lifecare
-create a complete responsive hospital / medical store / medical website design template using html css and vanilla javascript tutorial for beginners.
+# Medcare
+create a complete responsive hospital / medical store / medical website design template using html css and vanilla javascript.
+
+
+# Preview
+
+!["Medcare preview"]( ./medcare.jpeg "Medcare preview")
+
 
 the main feature of this website are:
 
