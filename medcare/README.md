@@ -4,7 +4,11 @@ create a complete responsive hospital / medical store / medical website design t
 
 # Preview
 
-!["Medcare preview"]( ./medcare.jpeg "Medcare preview")
+!["Medcare preview"]( ./medcare.png "Medcare preview")
+!["Medcare preview"]( ./medcare1.png "Medcare preview")
+!["Medcare preview"]( ./medcare2.png "Medcare preview")
+!["Medcare preview"]( ./medcare3.png "Medcare preview")
+
 
 
 the main feature of this website are:
