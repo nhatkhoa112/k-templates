@@ -6,3 +6,4 @@ The templates built with html css js ...
  - Shoe store template 
  - MedCare template
  - Summer travel template
+ - Himalyan cabs template

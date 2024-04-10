@@ -1,0 +1,18 @@
+.navbar-right {
+  margin: 10px; }
+
+.navbar-right div {
+  margin: 30px; }
+
+.jumbotron {
+  background-image: url("../img/driver.jpg");
+  background-size: cover;
+  height: 800px;
+  color: #fff; }
+
+#signUpForm {
+  margin-top: -160px;
+  float: right !important;
+  width: 30%; }
+
+/*# sourceMappingURL=driverSignUp.css.map */

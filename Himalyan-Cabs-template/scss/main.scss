@@ -1,0 +1,46 @@
+.bg-image{
+  background-image: url("../img/Alia.jpg");
+  margin-top: 50px;
+  background-size: cover;
+  height: 600px;
+}
+body{
+ // background-image: url("../img/Alia.jpg");
+  //background-color: lightskyblue;
+  background-size: cover;
+}
+#signUpForm{
+  margin-top: -240px;
+  float: right !important;
+  border: 2px solid black;
+}
+#mobilePic{
+  background-image: url("../img/mobile1.jpg");
+  margin-top: -240px;
+  float: right !important;
+  border: 2px solid black;
+  width :400px;
+  height : 550px;
+  background-size: cover;
+}
+.ownMaster{
+  background-image: url("../img/ownMaster.jpg");
+  background-size: cover;
+  height: 600px;
+  color: #fff;
+  margin-top:50px;
+}
+#mapPoints{
+  width: 400px;
+  height: 550px;
+  float: right !important;
+}
+i{
+  color:darkblue;
+}
+@media screen and (max-width: 1200px) {
+  .container p {
+    font-size: 6px;
+  }
+}
+
