@@ -8,3 +8,4 @@ The templates built with html css js ...
  - Summer travel template
  - Himalyan cabs template
  - Railway booking frontend template
+ - Tourist template 
